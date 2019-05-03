@@ -1,0 +1,5 @@
+This is a early adopted version of code. 
+Works in Python 2.7 with installed special extension:
+- cyqlite (special files overwriting standard sqlite extension - for example: sqlite-dll-win32-x86)
+- mod_spatialite ( from http://www.gaia-gis.it/gaia-sins/)
+File db_small.zip is sample dataset. Please unpack this file in any destination to test the algorithm.
