@@ -1,3 +1,4 @@
+Parallel algorithm for improve speed-up spatial query in large SQLite SpatiaLite databases.
 This is a early adopted version of code. 
 
 Works in Python 2.7 with installed special extension:
